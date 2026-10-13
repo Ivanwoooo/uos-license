@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "v": 1,
+    "issued_at": 1791887386,
+    "licenses": {
+      "LIC-FRIEND1": {
+        "enabled": true,
+        "expire": "2026-11-13"
+      }
+    }
+  },
+  "sig": "XvdExdcSm6EsyvrMwuRn3OwqIVX5vxCj1BFYCGYSrplrq+uGnm2H5z1SqI4xMqlKN0q+I5qgkIGnRY7NPF/kCA=="
+}
